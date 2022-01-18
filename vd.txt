@@ -3,7 +3,7 @@
 3. rang az h milyen hosszú legyen egy szám
 4. for amikor nem tudjuk h meddig menjen a loop a while t meg amikor tudjuk h hol van a vége
 5. listanev.append('elem')
-6. lower()
+6. lowercase()
 7. a dict be vannak kulcsok a szótárba meg nincs
 8. dictionary ban tudunk rá könnyebben hivatkozni
 9. mindig valamijen értékkel visszatér
