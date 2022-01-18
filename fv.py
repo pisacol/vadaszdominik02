@@ -1,5 +1,6 @@
 import os
 import random
+
 bszam1=[]
 bszam2=[]
 bszam3=[]
@@ -26,4 +27,5 @@ ertek15=random.randint(0,9)
 ertek16=random.randint(0,9)
 bszam4=(ertek13,ertek14,ertek15,ertek16)
 
-print(bszam1)
+ev=random.randint(21,25)
+ho=random.randint(0,12)
