@@ -58,7 +58,7 @@ def randnev():
     knev=str(["jozsi","sanyi","Kata","béla","Betti","eva","beni","peti","erika"])
     vnev=str(["kovacs","molnar","Kiss","toth","nagy","horvath","szabo","Papp","farkas"])
 
-    nev=random.choice(knev) + random.choice(vnev)
+    nev=random.choice(knev) +" "+ random.choice(vnev)
     print(nev)
 
 
