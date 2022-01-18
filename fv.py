@@ -29,3 +29,7 @@ bszam4=(ertek13,ertek14,ertek15,ertek16)
 
 ev=random.randint(21,25)
 ho=random.randint(0,12)
+if ho < 10:
+    int(0+ho)
+lej=(ev +"/"+ ho)
+
